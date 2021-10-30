@@ -1,1 +1,14 @@
-The chain rule is used to find the derivatives of composite functions like (x^2 + 1)^3, (sin 2x), (ln 5x), e^2x, and so on. If y = f(g(x)), then y' = f'(g(x)). g'(x).
+>  **"With the Calculus as a key, Mathematics can be successfully applied
+to the explanation of the course of Nature."**
+
+**— WHITEHEAD**
+
+
+*Calculus* is a branch of mathematics that involves the study of rates of change. Before calculus was invented, all **math was static**: It could only help calculate objects that were *perfectly still.*
+
+But **the universe is constantly moving and changing.** *No* objects—from the stars in space to subatomic particles or cells in the body—are *always at rest.* Indeed, just about everything in the universe is constantly moving. Calculus helped to determine how particles, stars, and matter actually move and change in **real time.**
+
+
+
+
+
