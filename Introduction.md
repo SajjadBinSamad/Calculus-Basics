@@ -10,9 +10,14 @@ But **the universe is constantly moving and changing.** *No* objects—from the 
 
 
 **Limits:**
-Consider the function f(x) = x^22. Observe that as x takes values very close to 0,
+
+> The mathematical microscope that lets you sort of zoom in on a curve to the sub-, sub-, sub-atomic level, where it becomes straight.
+
+Consider the function f(x) = x^2. Observe that as x takes values very close to 0,
 the value of f(x) also moves towards 0
 
 We say
 
 `lim f(x) = 0 as x---> 0`
+
+Limits: The mathematical microscope that lets you sort of zoom in on a curve to the sub-, sub-, sub-atomic level, where it becomes straight.
