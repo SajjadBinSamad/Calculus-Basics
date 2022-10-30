@@ -34,3 +34,9 @@ $\lim _{x\to c}\:f\left(x\right)$ exists if and only if
 
 
 Calculus books always present this as a three-part test for the existence of a limit, but condition 3 is the only one we need to worry about because 1 and 2 are built into 3. We just have to remember that we can’t satisfy condition 3 if the left and right sides of the equation are both undefined or nonexistent; in other words, it is not true that undefined = undefined or that nonexistent = nonexistent. (I think this is why calc texts use the 3-part definition.) As long as you’ve got that straight, condition 3 is all you need to check.
+
+**Differentiating: It’s Just Finding the Slope**
+
+Differentiation is the first of the two major ideas in calculus (the other is integration). Differentiation is the process of finding the derivative of a function like $y=x^2$.The derivative is just a fancy calculus term for a simple idea we know from algebra: slope. Slope, as we know, is the fancy algebra term for steepness. And steepness is the fancy word for … No! Steepness is the ordinary word we’ve known since we were a kid, as in, “Hey, this road sure is steep.” Everything we study in differential calculus all relates back to the simple idea of steepness.
+
+**Integration: Just Fancy Addition**
