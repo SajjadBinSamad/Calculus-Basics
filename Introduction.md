@@ -23,3 +23,14 @@ We say
 Limits: The mathematical microscope that lets you sort of zoom in on a curve to the sub-, sub-, sub-atomic level, where it becomes straight.
 
 Consider the function f(x)=3x+1. When we say that the limit of f(x) as x approaches 2 is 7, written as $\lim _{x\to 2\}f\left(x\right)=7$ , we mean that as x gets closer and closer to 2 from the left and the right,  gets closer and closer to a height of 7. By the way, as far as I know, the number 2 in this example doesn’t have a formal name, but we can call it the arrow-number. The arrow-number gives you a horizontal location in the x direction. Don’t confuse it with the answer to the limit problem or simply the limit, both of which refer to a y-value or height of the function.
+
+Formal definition of limit: Let f be a function and let c be a real number.
+
+$\lim _{x\to c}\:f\left(x\right)$ exists if and only if
+
+1.  $\lim _{x\to c-}\:f\left(x\right)$
+2.  $\lim _{x\to c-}\:f\left(x\right)$
+3.  and $\lim _{x\to c-}\:f\left(x\right)$ = $\lim _{x\to c-}\:f\left(x\right)$
+
+
+Calculus books always present this as a three-part test for the existence of a limit, but condition 3 is the only one we need to worry about because 1 and 2 are built into 3. We just have to remember that we can’t satisfy condition 3 if the left and right sides of the equation are both undefined or nonexistent; in other words, it is not true that undefined = undefined or that nonexistent = nonexistent. (I think this is why calc texts use the 3-part definition.) As long as you’ve got that straight, condition 3 is all you need to check.
