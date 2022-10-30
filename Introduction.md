@@ -40,3 +40,7 @@ Calculus books always present this as a three-part test for the existence of a l
 Differentiation is the first of the two major ideas in calculus (the other is integration). Differentiation is the process of finding the derivative of a function like $y=x^2$.The derivative is just a fancy calculus term for a simple idea we know from algebra: slope. Slope, as we know, is the fancy algebra term for steepness. And steepness is the fancy word for … No! Steepness is the ordinary word we’ve known since we were a kid, as in, “Hey, this road sure is steep.” Everything we study in differential calculus all relates back to the simple idea of steepness.
 
 **Integration: Just Fancy Addition**
+
+Integration has an elegant symbol: $\int $. You’ve probably seen it before — maybe in one of those cartoons with some Einstein guy in front of a blackboard filled with indecipherable gobbledygook. Soon, this will be you. That’s right: You’ll be filling up pages in your notebook with equations containing the integration symbol. Onlookers will be amazed and envious.
+
+You can think of the integration symbol as just an elongated S for “sum up.”
